@@ -22,6 +22,7 @@ _parte Tiago_
 * Douglas da Fontoura Pereyra
 * Henrique Vilela Zucoloto
 * Ayrton da Costa Ganem Filho
+* Tiago
 
 ## Créditos
 Queremos agradacer ao nosso grande mestre: Eduardo do Valle Simões
