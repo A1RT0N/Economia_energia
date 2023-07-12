@@ -34,12 +34,10 @@ Os valores foram escolhidos de forma a obter o equilíbrio adequado entre sensib
 ## Imagem e vídeo do programa em funcionamento
 
 ![alt text](https://github.com/A1RT0N/Economia_energia/blob/main/WhatsApp%20Image%202023-07-12%20at%2020.08.58.jpeg).
-
 Link no Youtube: https://youtu.be/OLcnhhPWkxw
 
 ## Circuito no Tinker Cad
-
-![alt text](https://github.com/A1RT0N/Economia_energia/blob/main/WhatsApp%20Image%202023-07-09%20at%2019.12.43.jpeg).
+![alt text](https://github.com/A1RT0N/Economia_energia/blob/main/Imagem_circuito.jpeg).
 
 ## Tabela dos componentes utiliados
 
