@@ -1,5 +1,5 @@
 # Economia_energia
-Electronics project for the development of a camera coupled to a Raspberry Pi and a 5V arduino relay made at the University of São Paulo. This project has the function of automatically turning off a light bulb after a person leaves a certain room using computer vision programmed in Python and using the OpenCV library on the RaspBerry Pi. We use a pre-trained xml dataset. This project aims to reduce the energy consumption of people who forget to turn off the switch when leaving the room.
+Electronics project for the development of a camera coupled to a Raspberry Pi and a 5V arduino relay made at the University of São Paulo. This project has the function of automatically turning off a light bulb after a person leaves a certain room using computer vision programmed in Python and using the OpenCV library on the RaspBerry Pi. We use a pre-trained xml dataset. This project aims to reduce the energy consumption of people who forget to turn off the switch when leaving the room. In this projetec, a person will click on a button (the light switch) and the light will come on. If the person leaves the room without turning off the light, there will be a few seconds counter that, when it reaches zero, the light will turn off
 
 ## Explicação do programa utilizado
 O programa usa a biblioteca OpenCV para processar as imagens e a biblioteca 'RPi.GPIO' para controlar os pinos do Raspberry.
@@ -35,7 +35,7 @@ Os valores foram escolhidos de forma a obter o equilíbrio adequado entre sensib
 
 ![alt text](https://github.com/A1RT0N/Economia_energia/blob/main/WhatsApp%20Image%202023-07-09%20at%2018.45.07.jpeg).
 
-Link no Youtube: https://youtu.be/zHyO0XfReo8 
+Link no Youtube:
 
 ## Circuito no Tinker Cad
 
