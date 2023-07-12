@@ -35,7 +35,7 @@ Os valores foram escolhidos de forma a obter o equilíbrio adequado entre sensib
 
 ![alt text](https://github.com/A1RT0N/Economia_energia/blob/main/WhatsApp%20Image%202023-07-09%20at%2018.45.07.jpeg).
 
-Link no Youtube:
+Link no Youtube: https://youtu.be/OLcnhhPWkxw
 
 ## Circuito no Tinker Cad
 
